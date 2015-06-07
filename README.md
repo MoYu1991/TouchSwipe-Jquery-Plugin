@@ -1,3 +1,5 @@
+In China, some websites can not open.So the demo in the < link > links can't use.Lead to can't see the effect
+
 #TouchSwipe 1.6 
 A jquery plugin to be used on touch devices such as iPad, iPhone, android etc
 
